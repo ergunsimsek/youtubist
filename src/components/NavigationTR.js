@@ -19,7 +19,7 @@ const NavigationTR = (props) => {
             </li>
             <li>
                 <NavLink onClick={props.collapsed} to={'/tr/legal'} activeClassName="active">
-                    yasal
+                    masal
                 </NavLink>
             </li>
             <li>
