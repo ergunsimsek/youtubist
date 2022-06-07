@@ -60,7 +60,7 @@ class OurWork extends React.Component{
                     <div className="col-md-6">{this.props.lang === 'en' ? <WorkEn /> : <WorkTr />}</div>
                     <div className="col-md-6">
                         <div className="hero-right work-image">
-                            <img src={ServiceImg} alt="service image" />
+                            <img src={ServiceImg} alt="service" />
                         </div>
                     </div>
                 </Layout>

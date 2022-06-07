@@ -23,7 +23,7 @@ const Navigation = ({ collapsed, lang }) => {
                 </NavLink>
             </li>
             <li>
-                <a target="_blank" href="https://jobs.lever.co/youtubist">
+                <a target="_blank" rel="noopener noreferrer" href="https://jobs.lever.co/youtubist">
                     {lang === 'en' ? 'jobs' : 'kariyer'}
                 </a>
             </li>

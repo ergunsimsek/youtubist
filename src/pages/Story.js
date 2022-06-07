@@ -55,7 +55,7 @@ class Story extends React.Component {
                     <div className="col-md-6">{this.props.lang === 'en' ? <StoryEn /> : <StoryTr />}</div>
                     <div className="col-md-6">
                         <div className="hero-right work-image">
-                            <img src={StoryImg} alt="service image" />
+                            <img src={StoryImg} alt="service" />
                         </div>
                         <p className="show-mobile">
                             ©{new Date().getFullYear()} YouTubist.Co | YPP. YouTube Partner Program.

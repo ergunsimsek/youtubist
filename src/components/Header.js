@@ -33,7 +33,7 @@ class Header extends React.Component {
                                     this.setState({ show: false })
                                 }}
                             >
-                                <img src={logo} alt="logo image" width={80} />
+                                <img src={logo} alt="logo" width={80} />
                             </Link>
                             <div className="menu-wrap">
                                 <Navigation lang={lang} />
