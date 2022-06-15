@@ -12,7 +12,7 @@ const HomeEn = () => {
 social engineering practises.
             </p>
             <p>
-                Business Inquries: <a href="mailto: hello@youtubist.co">hello@youtubist.co</a>
+                Contact: <a href="mailto: hey@hyperg.nl">hey@hyperg.nl</a>
             </p>
         </div>
     )
@@ -27,7 +27,7 @@ const HomeTr = () => {
                 İleri-vizyoner ekibimiz ile videolarınızı görünür kılıyoruz.
             </p>
             <p>
-                Business Inquries: <a href="mailto: hello@youtubist.co">hello@youtubist.co</a>
+                Contact: <a href="mailto: hey@hyperg.nl">hey@hyperg.nl</a>
             </p>
         </div>
     )
