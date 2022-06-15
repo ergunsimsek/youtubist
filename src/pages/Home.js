@@ -6,7 +6,7 @@ import Header from '../components/Header'
 const HomeEn = () => {
     return (
         <div className="hero-text">
-            <h1>YouTuber Mentoring and Media Company</h1>
+            <h1>behind the hype</h1>
             <p>
                 With own-developed Algorithms, proudly we are Turkey's first YouTube-based new-generation Media Company.
                 We make your videos visible with our forward-visionary team.
