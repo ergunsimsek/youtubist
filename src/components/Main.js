@@ -66,15 +66,7 @@ function SocialMedia() {
             </div>
             <div className="made-in">
                 <p>
-                    Made with&nbsp;
-                                  <svg width="14" height="12">
-                        <path
-                            d="M1.014.994a3.335 3.335 0 000 4.789l5.982 5.884 5.99-5.877a3.334 3.334 0 000-4.789 3.49 3.49 0 00-4.88 0L7.002 2.083 5.894.995a3.49 3.49 0 00-4.88 0z"
-                            fill="#EF0107"
-                            fill-rule="evenodd"
-                        ></path>
-                    </svg>
-                    &nbsp;in Istanbul
+                  M. Kemal ATATURK.
                 </p>
             </div>
         </div>
@@ -90,7 +82,7 @@ function Main({children}) {
                   <Link to={'/'}>
                       <img src={logo} width={250} className="animated lightSpeedIn" alt="Youtubist Logo" />
                   </Link>
-                  <h3>YouTubist - Analytica</h3>
+                  <h3>Hyperg.nl/h3>
                   {children}
                   <div className="hidden-mobile">
                       <SocialMedia />
