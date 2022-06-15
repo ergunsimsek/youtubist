@@ -8,8 +8,8 @@ const HomeEn = () => {
         <div className="hero-text">
             <h1>behind the hype</h1>
             <p>
-                With own-developed Algorithms, proudly we are Turkey's first YouTube-based new-generation Media Company.
-                We make your videos visible with our forward-visionary team.
+                We are not a digital agency we are social engineering company. Solving yours digital matters with 
+social engineering practises.
             </p>
             <p>
                 Business Inquries: <a href="mailto: hello@youtubist.co">hello@youtubist.co</a>
