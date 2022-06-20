@@ -10,7 +10,9 @@ const HomeEn = () => {
             <p>
                 We are not a digital agency we are social engineering company. Solving yours digital matters with 
 social engineering practises as well, information gathering and legal works on various digital platforms.
-            </p>
+
+        We provide niche service to Government Agencies and Officials, Private Companies 
+And Hype people of Society.  </p>
             <p>
                 Contact: <a href="mailto: hey@hyperg.nl">hey@hyperg.nl</a>
             </p>
