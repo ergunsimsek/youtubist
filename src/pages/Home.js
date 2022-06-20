@@ -9,7 +9,7 @@ const HomeEn = () => {
             <h2>behind the hype</h2>
             <p>
                 We are not a digital agency we are social engineering company. Solving yours digital matters with 
-social engineering practises.
+social engineering practises as well, information gathering and legal works on various digital platforms.
             </p>
             <p>
                 Contact: <a href="mailto: hey@hyperg.nl">hey@hyperg.nl</a>
