@@ -6,7 +6,7 @@ import Header from '../components/Header'
 const HomeEn = () => {
     return (
         <div className="hero-text">
-            <h1>behind the hype</h1>
+            <h2>behind the hype</h2>
             <p>
                 We are not a digital agency we are social engineering company. Solving yours digital matters with 
 social engineering practises.
